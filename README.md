@@ -89,5 +89,3 @@ Data Privacy
 The original Instagram JSON files are not included in this repository because they contain personal account information.
 
 The repository contains the Power BI project and project documentation without exposing the original private Instagram data.
-
-Repository Structure
