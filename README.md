@@ -1,6 +1,6 @@
-Instagram Profile Analysis Dashboard
+### Instagram Profile Analysis Dashboard
 
-A Power BI project that analyzes one year of Instagram activity, focusing on liked content, activity patterns, followers, and following trends.
+## A Power BI project that analyzes one year of Instagram activity, focusing on liked content, activity patterns, followers, and following trends.
 
 Project Overview
 
